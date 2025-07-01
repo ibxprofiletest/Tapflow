@@ -1,0 +1,952 @@
+Uri: https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=tapflow-2-0&theme=dark
+File Name: C:\Downloaded Web Sites\tapflow.co\widgets\embed-image\v1\featured.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.amplitude.com/libs/analytics-browser-2.10.0-min.js.gz
+File Name: C:\Downloaded Web Sites\tapflow.co\libs\analytics-browser-2.10.0-min.js.gz
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\tapflow.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/08bCJfmvizuFi36VeazboYh54CQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\08bCJfmvizuFi36VeazboYh54CQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0BpBBsO6WWiC959YvgQNwgs8Ukc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\0BpBBsO6WWiC959YvgQNwgs8Ukc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\0iDmxkizU9goZoclqIqsV5rvETU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3vBl5hKm8HAkgAiJc4MfFucWo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\3vBl5hKm8HAkgAiJc4MfFucWo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\6FI2EneKzM3qBy5foOZXey7coCA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\dHHUz45rhM2KCQpj9zttNVlibk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/f2kclCrwmFV8YeznrosrT3kcjE.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\f2kclCrwmFV8YeznrosrT3kcjE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\F3kdpd2N0cToWV5huaZjjgM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fEqgEChcTaneQFxeugexHq7Bk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\fEqgEChcTaneQFxeugexHq7Bk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\jplzYzqFHXreyADwk9yrkQlWQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\r0mv3NegmA0akcQsNFotG32Las.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\sSIKP2TfVPvfK7YVENPE5H87A.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\wmHLUqO4QxLaADUScavxvknnBQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/x55WYpCLiaS6yqWTPFMIILDXKco.mp4
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\x55WYpCLiaS6yqWTPFMIILDXKco.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xSzma7KIWAdctStaX171ey3lams.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\xSzma7KIWAdctStaX171ey3lams.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\Downloaded Web Sites\tapflow.co\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/E4vrzzKGPqRVvPH5MFGLrTqYU.png
+File Name: C:\Downloaded Web Sites\tapflow.co\images\E4vrzzKGPqRVvPH5MFGLrTqYU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/E4vrzzKGPqRVvPH5MFGLrTqYU.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\tapflow.co\images\E4vrzzKGPqRVvPH5MFGLrTqYU-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/E4vrzzKGPqRVvPH5MFGLrTqYU.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\tapflow.co\images\E4vrzzKGPqRVvPH5MFGLrTqYU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mPPPnx1TYlZGvAQgOxDyFbr7Aew.png
+File Name: C:\Downloaded Web Sites\tapflow.co\images\mPPPnx1TYlZGvAQgOxDyFbr7Aew-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mPPPnx1TYlZGvAQgOxDyFbr7Aew.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\tapflow.co\images\mPPPnx1TYlZGvAQgOxDyFbr7Aew.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pvQYh4WpX1cV8Fp6kh0YSLiK56Y.png
+File Name: C:\Downloaded Web Sites\tapflow.co\images\pvQYh4WpX1cV8Fp6kh0YSLiK56Y.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WGcSfufeSAF5YUmMIQDthxsT8.png
+File Name: C:\Downloaded Web Sites\tapflow.co\images\WGcSfufeSAF5YUmMIQDthxsT8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-42U43NKG.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-42U43NKG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-A3IIQ6X3.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-A3IIQ6X3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-BMMUF56P.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-BMMUF56P.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-EREUIR4R.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-EREUIR4R.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-HZL4YIMB.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-HZL4YIMB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-IBXLZ3AH.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-IBXLZ3AH.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-KTV4JKFL.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-KTV4JKFL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-Q5B6BLG3.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-Q5B6BLG3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-SFQDW7Z7.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-SFQDW7Z7.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-UGH4J7SB.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-UGH4J7SB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/chunk-WTJ5PBRZ.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\chunk-WTJ5PBRZ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/JTZC8G3LMKVS8oZoTz6yZnt_2C0JjfFCzoL2H9t0Y8k.JXFA22KX.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\JTZC8G3LMKVS8oZoTz6yZnt_2C0JjfFCzoL2H9t0Y8k.JXFA22KX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4Q70po5Mm3OWDBQUeyMzsR/script_main.H2EDJRFJ.mjs
+File Name: C:\Downloaded Web Sites\tapflow.co\sites\4Q70po5Mm3OWDBQUeyMzsR\script_main.H2EDJRFJ.mjs
+Content Type: text/javascript
+
+Uri: https://tapflow.co/
+File Name: C:\Downloaded Web Sites\tapflow.co\index.htm
+Content Type: text/html
+
+Uri: https://tapflow.co/auth/invite
+File Name: C:\Downloaded Web Sites\tapflow.co\auth\invite.html
+Content Type: text/html
+
+Uri: https://tapflow.co/auth/signin
+File Name: C:\Downloaded Web Sites\tapflow.co\auth\signin.html
+Content Type: text/html
+
+Uri: https://tapflow.co/auth/signin?_gl=1*z42apk*_ga*NDg1NDA0NzA0LjE3NDgzNDI0OTE.*_ga_FY7WMHDS49*czE3NDgzNjQwMDAkbzMkZzEkdDE3NDgzNjQwMDEkajU5JGwwJGgxNTQ2NDg3NTA0JGRaR2syT3hFSUhaQnluclBMZXV6dklZV0xvYU9tREdCMndn
+File Name: C:\Downloaded Web Sites\tapflow.co\auth\signin-1.html
+Content Type: text/html
+
+Uri: https://tapflow.co/blog
+File Name: C:\Downloaded Web Sites\tapflow.co\blog.html
+Content Type: text/html
+
+Uri: https://tapflow.co/changelog
+File Name: C:\Downloaded Web Sites\tapflow.co\changelog.html
+Content Type: text/html
+
+Uri: https://tapflow.co/contact
+File Name: C:\Downloaded Web Sites\tapflow.co\contact.html
+Content Type: text/html
+
+Uri: https://tapflow.co/favicon.ico
+File Name: C:\Downloaded Web Sites\tapflow.co\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://tapflow.co/fonts/SFProDisplay-Bold.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\fonts\SFProDisplay-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://tapflow.co/fonts/SFProDisplay-Medium.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\fonts\SFProDisplay-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://tapflow.co/fonts/SFProDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\fonts\SFProDisplay-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://tapflow.co/fonts/SFProDisplay-Semibold.ttf
+File Name: C:\Downloaded Web Sites\tapflow.co\fonts\SFProDisplay-Semibold.ttf
+Content Type: font/ttf
+
+Uri: https://tapflow.co/_next/static/chunks/1025-ddc1cb3ffe6ccbb6.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1025-ddc1cb3ffe6ccbb6.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/1182-60ed85f85e2e409b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1182-60ed85f85e2e409b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/1252-55df8117352638a3.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1252-55df8117352638a3.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/1579-d3712ea283249cf8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1579-d3712ea283249cf8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/180-f5bdd210fb0a718b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\180-f5bdd210fb0a718b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/1873-8e7111151927b1c5.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1873-8e7111151927b1c5.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/1902-31879b30bc57e77d.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\1902-31879b30bc57e77d.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/2279-4e331b71f93a85ad.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\2279-4e331b71f93a85ad.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/2443-34be0228b6ddcec3.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\2443-34be0228b6ddcec3.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/251-758ba1aa2c7ffeaa.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\251-758ba1aa2c7ffeaa.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/2695-75f28b25d2383359.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\2695-75f28b25d2383359.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/29c8c609-7db05d3798dae34f.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\29c8c609-7db05d3798dae34f.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/3043-ce1c914722ace5e8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\3043-ce1c914722ace5e8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/3313-cac64c1406e8788b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\3313-cac64c1406e8788b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4003-55b573b6567eba67.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4003-55b573b6567eba67.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4134-19b63524a3707358.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4134-19b63524a3707358.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4136-2762818c34bcf3f4.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4136-2762818c34bcf3f4.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4228-3552c0ba3c831797.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4228-3552c0ba3c831797.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4479-baa2aeb43f746103.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4479-baa2aeb43f746103.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4500-2bf62c3451a1f473.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4500-2bf62c3451a1f473.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4837-02bce0c4e9ee66bb.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4837-02bce0c4e9ee66bb.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4941-229fab0c1b3a558b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4941-229fab0c1b3a558b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/4bd1b696-68a08f92e2cc6237.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\4bd1b696-68a08f92e2cc6237.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5100-03d44158efefa3d7.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5100-03d44158efefa3d7.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5139-a04f4bbc2479445a.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5139-a04f4bbc2479445a.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5445-066244525da6ba37.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5445-066244525da6ba37.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5528-9135c2fd24e45e75.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5528-9135c2fd24e45e75.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5562-f104131a25cb267a.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5562-f104131a25cb267a.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5745-a28cdafcdb8e2aa8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5745-a28cdafcdb8e2aa8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/5986-256e97657ad115fa.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\5986-256e97657ad115fa.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6030-585d382f3b0f510d.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6030-585d382f3b0f510d.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6059-efba8e9e4f75d931.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6059-efba8e9e4f75d931.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6192-71fce02374a78813.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6192-71fce02374a78813.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6320-4cd0f5cd24a592e8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6320-4cd0f5cd24a592e8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6478-1751e112b6df7554.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6478-1751e112b6df7554.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/6858-0f3f88206cc369c5.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\6858-0f3f88206cc369c5.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/7123-9352bdf5b5102395.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\7123-9352bdf5b5102395.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/7244-9db63df4e938b228.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\7244-9db63df4e938b228.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/749c9a0c-0ec65ba4f0af8586.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\749c9a0c-0ec65ba4f0af8586.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/7934-160becfe145a7da8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\7934-160becfe145a7da8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/8117-15df37c6f3aed8a1.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\8117-15df37c6f3aed8a1.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/820-ccb4f17a1a5a2f5b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\820-ccb4f17a1a5a2f5b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/8341-f538b1e648de387a.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\8341-f538b1e648de387a.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/8503-ac04e813a965f537.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\8503-ac04e813a965f537.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/8991-6c72bd4afe3a85df.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\8991-6c72bd4afe3a85df.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/903-9bd8819b2942300e.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\903-9bd8819b2942300e.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/9275-ab00f8bbbf1b00c7.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\9275-ab00f8bbbf1b00c7.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/961-fdb104bd4b9570d7.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\961-fdb104bd4b9570d7.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/9694-c3b903bc024a7cef.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\9694-c3b903bc024a7cef.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/9768-60d5582041b32050.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\9768-60d5582041b32050.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/9822-d7d63b5ec34d2440.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\9822-d7d63b5ec34d2440.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(appLayout)/[username]/%40foreign/page-194e00cd66d40da0.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(appLayout)\[username]\@foreign\page-194e00cd66d40da0.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(appLayout)/[username]/%40me/page-fe7d0355b69adf0f.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(appLayout)\[username]\@me\page-fe7d0355b69adf0f.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(appLayout)/[username]/layout-e8f0e2fc4a22cd7b.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(appLayout)\[username]\layout-e8f0e2fc4a22cd7b.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(appLayout)/[username]/template-ae4861e9d58efb7f.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(appLayout)\[username]\template-ae4861e9d58efb7f.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(appLayout)/layout-dc7321f7272356e9.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(appLayout)\layout-dc7321f7272356e9.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/auth/invite/page-9f4cd9259fe12b0c.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\auth\invite\page-9f4cd9259fe12b0c.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/auth/invite/template-de0901989863f7c7.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\auth\invite\template-de0901989863f7c7.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/auth/layout-9f18c8e1f6ff7da4.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\auth\layout-9f18c8e1f6ff7da4.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/auth/signin/page-9468f6acc09c2d8f.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\auth\signin\page-9468f6acc09c2d8f.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/auth/signin/template-4d715261570af3f0.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\auth\signin\template-4d715261570af3f0.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/(auth)/layout-5e3a5723d89ae95a.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\(auth)\layout-5e3a5723d89ae95a.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/error-f90569a97ad5d071.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\error-f90569a97ad5d071.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/global-error-ec76ac48b34bf028.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\global-error-ec76ac48b34bf028.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/layout-4bc097e16c6cc0f8.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\layout-4bc097e16c6cc0f8.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/app/not-found-f8876aec59d67cfc.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\app\not-found-f8876aec59d67cfc.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/main-app-7d72f2d260b2ecd6.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\main-app-7d72f2d260b2ecd6.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/chunks/webpack-eb111efd533b26be.js
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\chunks\webpack-eb111efd533b26be.js
+Content Type: application/javascript
+
+Uri: https://tapflow.co/_next/static/css/2b8b325fc1793ba6.css
+File Name: C:\Downloaded Web Sites\tapflow.co\_next\static\css\2b8b325fc1793ba6.css
+Content Type: text/css
+
+Uri: https://www.facebook.com/tr?id=1137347597326141&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\tapflow.co\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-FY7WMHDS49
+File Name: C:\Downloaded Web Sites\tapflow.co\gtag\js
+Content Type: application/javascript
+

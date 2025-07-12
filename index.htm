@@ -67,7 +67,7 @@
           const anchors = Array.from(document.querySelectorAll('a'));
           anchors.forEach(anchor => {
             const text = anchor.textContent.trim();
-            if ((text === 'Claim invite' || text === 'Claim your invite') && !anchor.nextSibling?.classList?.contains('x-close-btn')) {
+            if ((text === 'Claim invite') && !anchor.nextSibling?.classList?.contains('x-close-btn')) {
               if (anchor.nextSibling && anchor.nextSibling.classList && anchor.nextSibling.classList.contains('x-close-btn')) return;
               const btn = document.createElement('button');
               btn.setAttribute('aria-label', 'Close');

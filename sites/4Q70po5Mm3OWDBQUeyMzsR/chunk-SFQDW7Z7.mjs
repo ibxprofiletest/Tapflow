@@ -5094,7 +5094,7 @@ var Ea = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                       className: "framer-styles-preset-oh30q",
                                       "data-styles-preset": "FwmuxBMQR",
                                       children: e(p, {
-                                        href: "https://twitter.com/tapflownotes",
+                                        href: "https://x.com/tapflownotes",
                                         motionChild: !0,
                                         nodeId: "usAA_4N72",
                                         openInNewTab: !0,

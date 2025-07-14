@@ -5120,38 +5120,38 @@ var Ea = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                   verticalAlignment: "top",
                                   withExternalLayout: !0,
                                 }),
-                                e(U, {
-                                  __fromCanvasComponent: !0,
-                                  children: e(l, {
-                                    children: e(r.p, {
-                                      className: "framer-styles-preset-oh30q",
-                                      "data-styles-preset": "FwmuxBMQR",
-                                      children: e(p, {
-                                        href: "https://www.linkedin.com/company/tapflowhq",
-                                        motionChild: !0,
-                                        nodeId: "WdX8k4QN4",
-                                        openInNewTab: !0,
-                                        scopeId: "OPJJq0QP0",
-                                        smoothScroll: !1,
-                                        children: e(r.a, {
-                                          className:
-                                            "framer-styles-preset-1eahpii",
-                                          "data-styles-preset": "pWnECMXPj",
-                                          children: "LinkedIn",
-                                        }),
-                                      }),
-                                    }),
-                                  }),
-                                  className: "framer-1n23z5m",
-                                  fonts: ["Inter"],
-                                  layoutDependency: i,
-                                  layoutId: "WdX8k4QN4",
-                                  style: {
-                                    "--framer-paragraph-spacing": "0px",
-                                  },
-                                  verticalAlignment: "top",
-                                  withExternalLayout: !0,
-                                }),
+                                // e(U, {
+                                //   __fromCanvasComponent: !0,
+                                //   children: e(l, {
+                                //     children: e(r.p, {
+                                //       className: "framer-styles-preset-oh30q",
+                                //       "data-styles-preset": "FwmuxBMQR",
+                                //       children: e(p, {
+                                //         href: "https://www.linkedin.com/company/tapflowhq",
+                                //         motionChild: !0,
+                                //         nodeId: "WdX8k4QN4",
+                                //         openInNewTab: !0,
+                                //         scopeId: "OPJJq0QP0",
+                                //         smoothScroll: !1,
+                                //         children: e(r.a, {
+                                //           className:
+                                //             "framer-styles-preset-1eahpii",
+                                //           "data-styles-preset": "pWnECMXPj",
+                                //           children: "LinkedIn",
+                                //         }),
+                                //       }),
+                                //     }),
+                                //   }),
+                                //   className: "framer-1n23z5m",
+                                //   fonts: ["Inter"],
+                                //   layoutDependency: i,
+                                //   layoutId: "WdX8k4QN4",
+                                //   style: {
+                                //     "--framer-paragraph-spacing": "0px",
+                                //   },
+                                //   verticalAlignment: "top",
+                                //   withExternalLayout: !0,
+                                // }),
                               ],
                             }),
                             h(r.div, {
